@@ -4,7 +4,7 @@ Layihəmizin komandamiz:
 
 |No| Ad | Shirket |Vezife|Olke|Email|
 |------|-------|---------|--------|------|----|
-|1| [SAKO M](#SAKO) |NGiNX|Bulud Proqramci|Amerika|mammadov@eurecom.fr
+|1| [SAKO M](#SAKO) |NGiNX|Bulud Proqramci|Amerika|sahriyarm@gmail.com
 |2| [Rovshan Musayev](#tural-mehtiyev-satış--marketing-rəhbəri) |IBM||Cexiya|Arlington1985@gmail.com
 |3| [Gunay Kazimzade](#gunay-nemət-maliyyə-rəhbəri) |Wowoman||Azerbaycan|gunay.kazimzade@gmail.com
 |4| [Eldeniz Huseyn](#daşqın-Əhmədzadə-texniki-qrup-rəhbəri) |Huawei||Azerbaycan| eldaniz.huseynov@outlook.com
