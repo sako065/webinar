@@ -14,45 +14,37 @@ Layihəni Paylaşmaqda məqsədimiz ideyası olan Gənclərimizin(SƏNİN!) Inve
 
 Ugurlar! <br /> 
 
-© 2017 DNART. Bütün hüquqlar qorunur.
+© 2017 GOUP. Bütün hüquqlar qorunur.
 
 # Haqqımızda
 
 ### Biz kimik?
 
-DNART layihəsi bir qrup gənc və təcrübəli komandanın ideyasıdır. Layihənin əsas məqsədi orijinal və qeyri-adi aksesuarlar və bijuteriyaları Azərbaycan brendi altında yerli və xarici bazarlara çıxarmaqdır. Artıq bir neçə il ərzində davam edən pilot layihə ərzində əldə olunan araşdırma təcrübəsi və hazırlanan məhsullar müştəri zövqünə və tələblərinə cavab verən mənfəətli biznes sahəsi olacağından xəbər verir. 
+GOUP layihəsi xaricde yashayan ve IT sahesinde calishan bir qrup  təcrübəli komandanın ideyasıdır. Layihənin əsas məqsədi Azerbaycanda "Open Source" resurslarin inkishafi, bu sahede xaricde calishan telebelerin "Startup"  
 
 ### Missiya
 Fərqliliyi və özəlliyi sevən xanım və bəylərimizi yüksək keyfiyyətli və yalnız müştəri təxəyyülü ilə limitlənən məhsullarımızla daimi müştərilərimizə çevirmək.
 
 ### Vizyon
-Dünya bazarında Azərbaycan brendini uğurla təmsil etmək. <br /> 
-18-28 yaş həddində olan gənclərimizin ən azı bir məhsulumuzdan istifadəsi.
+Xarici bazarlara cixacaq  Azərbaycan Gencliyini hazirlamaq. <br /> 
+Startup infrastrukturunun inkishafi
 
 ### Obyektiv
-Hədəfimiz çox sadədir səhmdarlarımızda  gəlirli biznesimizə inam yaratmaq.
+Hədəfimiz çox sadədir IT sahesinin inkishafini suretlendirmek. En boyuk auditoriyani toplamaq.
 
 
 ## Əlaqə
 
-1. Deyerli Mushterilerimiz
-2. Layihede maraqli olan investorlar
-3. Komandamiza qoshulmaq isteyen gencler
-
 Buyurub, ashagidaki elaqe vasiteleri ile layihemize destek ola biler:
 
-```bash
-Mob: +994556104823
-
-```
 
 Facebook Səhifəmiz:
-https://www.facebook.com/artofdn/
+https://www.facebook.com/goupaz
 
-Instagram Səhifəmiz:
-https://www.instagram.com/art_of_dn_/
+Slack Sehifemiz:
+https://goupaz.slack.com
 
 Youtube Səhifəmiz:
-https://www.youtube.com/channel/UCVyzNb1HZ8fX3pfVbuEPriw
+https://www.youtube.com/channel/UC5-CzpUMNnehyCSvo3kiMTw/
 
-Dəyərli Fikirləriniz: https://goo.gl/forms/rmXI1VTGDsfX2lys2
+Dəyərli Fikirləriniz:
