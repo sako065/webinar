@@ -13,6 +13,7 @@ Webinar cedvelimiz:
 |9| [Big Data](#Bulud) |.ppt|.mp4|16 Dekabr 2017 18:00-19:00|Ramin Orucov|Link|
 |10|[Machine Learning](#Bulud) |.ppt|.mp4|23 Dekabr 2017 18:00-19:00|...|Link|
 |11|[AI](#Bulud) |.ppt|.mp4|30 Dekabr 2017 18:00-19:00|...|Link|
+|12|[Emeliyyat Sistemleri](#Bulud) |.ppt|.mp4|30 Dekabr 2017 18:00-19:00|...|Link|
 
 # Bulud texnologiyalari [Abstrakt]
 
