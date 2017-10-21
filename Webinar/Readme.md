@@ -8,7 +8,7 @@ Webinar cedvelimiz:
 |4| [Proqramlashdirma dilleri](#Bulud) |.ppt|.mp4|04 Noyabr 2017 18:00-19:00|Ramin Orucov|Link|
 |5| [Telekom](#Bulud) |.ppt|.mp4|04 Noyabr 2017 18:00-19:00|...|Link|
 |6| [IT Tehlukesizlik](#Bulud) |.ppt|.mp4|04 Noyabr 2017 18:00-19:00|...|Link|
-|7| [IOT](#Bulud) |.ppt|.mp4|04 Noyabr 2017 18:00-19:00|...|Link|
+|7| [IOT](#Bulud) |.ppt|.mp4|04 Noyabr 2017 18:00-19:00|Hasan Aliyev|Link|
 |8| [NoSQL Databases](#Bulud) |.ppt|.mp4|04 Noyabr 2017 18:00-19:00|...|Link|
 |9| [Big Data](#Bulud) |.ppt|.mp4|04 Noyabr 2017 18:00-19:00|...|Link|
 |9| [Machine Learning](#Bulud) |.ppt|.mp4|04 Noyabr 2017 18:00-19:00|...|Link|
