@@ -8,9 +8,9 @@ IT uzre "Open Source" alpha layihəsine xosh geldiniz.
 - [Komandamız](/Komanda/README.md)
 - [Webinar I](/Webinar/Readme.md#bulud)
  [Meqale I](/Webinar/Readme.md#bulud)
-<--! [Kitab I](/Webinar/Readme.md#bulud)
+<---! [Kitab I](/Webinar/Readme.md#bulud)
 -- [Prezentasiya I](/Webinar/Readme.md#bulud)
--- [Video Dersler I](/Webinar/Readme.md#bulud) -->
+-- [Video Dersler I](/Webinar/Readme.md#bulud) --->
 - [Əlaqə](#Əlaqə)
 
 Ugurlar! <br /> 
