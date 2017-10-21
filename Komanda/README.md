@@ -9,7 +9,7 @@ Layihəmizin komandamiz:
 |3| [Gunay Kazimzade](#gunay-nemət-maliyyə-rəhbəri) |Wowoman||Azerbaycan|gunay.kazimzade@gmail.com
 |4| [Eldeniz Huseyn](#daşqın-Əhmədzadə-texniki-qrup-rəhbəri) |Huawei||Azerbaycan| eldaniz.huseynov@outlook.com
 |5| [Mamed Behri](#namazov-İlqar-texniki-mütəxəssis) |Azerconnect||Azerbaycan|Mbaxri@gmail.com
-|6| 
+|6| [Tahir Sultanov](#namazov-İlqar-texniki-mütəxəssis) |Beshka||Almaniya|
 |7| [Ramil Ragimov](#Əhmədzadə-coşqun-texniki-mütəxəssis) |Commerz Systems GmbH||Polsha|ramilrahimov@yahoo.com
 |8| [Rustem Rustemli](#Əhmədzadə-coşqun-texniki-mütəxəssis) |Millikart||Azerbaycan|
 |9| [Hasan Aliyev](#Əhmədzadə-coşqun-texniki-mütəxəssis) |Politecnico di Milano||Italiya|alieff.hasan@gmail.com
