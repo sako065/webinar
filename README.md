@@ -3,7 +3,6 @@
 Dəyərli istifadecilerimiz,
 
 IT uzre "Open Source" alpha layihəsine xosh geldiniz.
-![alt text](img.jpg)
 
 - [Haqqımızda](#haqqımızda)
 - [Komandamız](/Komanda/README.md)
@@ -16,6 +15,8 @@ IT uzre "Open Source" alpha layihəsine xosh geldiniz.
 
 
 Ugurlar! <br /> 
+
+![alt text](img.jpg)
 
 © 2017 GOUP. Bütün hüquqlar qorunur.
 
