@@ -6,7 +6,7 @@ IT uzre "Open Source" layihəsine xosh geldiniz.
 
 - [Haqqımızda](#haqqımızda)
 - [Komandamız](/Komanda/README.md)
-- [Webinar I](/Webinar/README.md#webinar)
+- [Webinar I](/Webinar/Readme.md#bulud)
 - [Əlaqə](#Əlaqə)
 
 Ugurlar! <br /> 
