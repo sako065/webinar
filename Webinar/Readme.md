@@ -15,6 +15,7 @@ Webinar cedvelimiz:
 |11|[AI](#Bulud) |.ppt|.mp4|30 Dekabr 2017 18:00-19:00|...|Link|
 |12|[Emeliyyat Sistemleri](#Bulud) |.ppt|.mp4|30 Dekabr 2017 18:00-19:00|...|Link|
 |13|[Elektrik Muhendisliyi](#Bulud) |.ppt|.mp4|30 Dekabr 2017 18:00-19:00|...|Link|
+|14|[Container(LXS,Docker) sistemleri](#Bulud) |.ppt|.mp4|30 Dekabr 2017 18:00-19:00|...|Link|
 # Bulud texnologiyalari [Abstrakt]
 
 
