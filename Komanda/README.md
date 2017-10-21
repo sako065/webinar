@@ -2,10 +2,10 @@
 
 Layihəmizin uğurlu bir biznesə çevrilməsi üçün lazım olan əsas tələblərə( güclü komanda, ideya, müştəri, bacarıq) cavab verdiyimizi düşünürük:
 
-|No| Ad | Vəzifə |
+|No| Ad | Email |
 |------|-------|---------|
-|1| [Şəhriyar Məmmədov](#Şəhriyar-məmmədov-layihə-rəhbəri) |Layihə Rəhbəri|
-|2| [Tural Mehtiyev](#tural-mehtiyev-satış--marketing-rəhbəri) |Satış & Marketing Rəhbəri|
+|1| [Şəhriyar Məmmədov](#Şəhriyar-məmmədov-layihə-rəhbəri) |sahriyarm@gmail.com|
+|2| [Rovshan Musayev](#tural-mehtiyev-satış--marketing-rəhbəri) |Satış & Marketing Rəhbəri|
 |3| [Gunay Nemət](#gunay-nemət-maliyyə-rəhbəri) |Maliyyə Rəhbəri|
 |4| [Daşqın Əhmədzadə](#daşqın-Əhmədzadə-texniki-qrup-rəhbəri) |Texniki Qrup Rəhbəri|
 |5| [Namazov İlqar](#namazov-İlqar-texniki-mütəxəssis) |Texniki mütəxəsis|
@@ -46,4 +46,4 @@ Linkedin: https://www.linkedin.com/in/joshgunbay/
 
 
 
-![Alt text](Komandamiz.jpg?raw=true "DNART Komandasi")
+//![Alt text](Komandamiz.jpg?raw=true "DNART Komandasi")
