@@ -11,7 +11,10 @@ IT uzre "Open Source" alpha layihəsine xosh geldiniz.
 <!-- [Meqale I](/Webinar/Readme.md#bulud)
  [Kitab I](/Webinar/Readme.md#bulud)
 -- [Prezentasiya I](/Webinar/Readme.md#bulud)
--- [Video Dersler I](/Webinar/Readme.md#bulud) -->
+-- [Video Dersler I](/Webinar/Readme.md#bulud)
+https://github.com/vermuz/AlgoWiki
+https://github.com/jwasham/coding-interview-university
+-->
 
 
 Ugurlar! <br /> 
