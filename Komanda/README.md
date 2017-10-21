@@ -12,6 +12,7 @@ Layihəmizin komandamiz:
 |6| [Ramin Orucov](#nigar-yusupova-texniki-mütəxəssis) |Luxsoft|||
 |7| [Ramil Ragimov](#Əhmədzadə-coşqun-texniki-mütəxəssis) |Commerz Systems GmbH|||ramilrahimov@yahoo.com
 |8| [Rustem Rustemli](#Əhmədzadə-coşqun-texniki-mütəxəssis) |Millikart|||
+|9| [Hasan Aliyev](#Əhmədzadə-coşqun-texniki-mütəxəssis) |Politecnico di Milano|||alieff.hasan@gmail.com
 
 
 
