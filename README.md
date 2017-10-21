@@ -1,15 +1,12 @@
-# GOUP - _Do Natural Art_
+# GOUP - _GO UP!_
 
-Dəyərli Ideya sahibi,
+Dəyərli istifadecilerimiz,
 
-Layihəni Paylaşmaqda məqsədimiz ideyası olan Gənclərimizin(SƏNİN!) Investorlarla görüşə daha hazırlıqlı çıxması üçündür.
-Əsasən, ATV telekanalında yayımlanan Ideyaqazandı verlişini hədəfləsə də, layihənizdə maraqlı olan istənilən investor üçün istifadə oluna bilər.
+IT uzre "Open Source" layihəsine xosh geldiniz.
 
 - [Haqqımızda](#haqqımızda)
-- [Məhsullar](/Mehsullar/README.md#məhsullar)
 - [Komandamız](/Komanda/README.md)
-- [Biznes Plan ](/BiznesPlan/README.md)
-- [Biznes Analiz](/BiznesAnaliz/README.md)
+- [Webinar I](/Mehsullar/README.md#məhsullar)
 - [Əlaqə](#Əlaqə)
 
 Ugurlar! <br /> 
@@ -20,28 +17,29 @@ Ugurlar! <br />
 
 ### Biz kimik?
 
-GOUP layihəsi xaricde yashayan ve IT sahesinde calishan bir qrup  təcrübəli komandanın ideyasıdır. Layihənin əsas məqsədi Azerbaycanda "Open Source" resurslarin inkishafi, bu sahede xaricde calishan telebelerin "Startup"  
+GOUP layihəsi xaricde yashayan ve IT sahesinde calishan bir qrup  təcrübəli komandanın ideyasıdır. Layihənin əsas məqsədi Azerbaycanda "Open Source" resurslarin inkishafi, bu sahede xaricde elde etdiymiz tecrubenin  sizlerle paylashilmasidir.  
 
 ### Missiya
-Fərqliliyi və özəlliyi sevən xanım və bəylərimizi yüksək keyfiyyətli və yalnız müştəri təxəyyülü ilə limitlənən məhsullarımızla daimi müştərilərimizə çevirmək.
+Xarici ve yerli bazarda IT sahesinde calishan mutexesislerimiz arasında körpülər qurmaq
 
 ### Vizyon
 Xarici bazarlara cixacaq  Azərbaycan Gencliyini hazirlamaq. <br /> 
-Startup infrastrukturunun inkishafi
+Yerli Startup infrastrukturunun inkishafi
+Texnoloji yenilikleri isti-isti sizlere catdirmaq
 
 ### Obyektiv
-Hədəfimiz çox sadədir IT sahesinin inkishafini suretlendirmek. En boyuk auditoriyani toplamaq.
+Hədəfimiz çox sadədir IT sahesinin inkishafini suretlendirmek ve en boyuk auditoriyani toplamaq.
 
 
 ## Əlaqə
 
-Buyurub, ashagidaki elaqe vasiteleri ile layihemize destek ola biler:
+Buyurub, ashagidaki elaqe vasiteleri bizimle elaqe saxlaya bilersiniz:
 
 
 Facebook Səhifəmiz:
 https://www.facebook.com/goupaz
 
-Slack Sehifemiz:
+Slack Qrupumuz:
 https://goupaz.slack.com
 
 Youtube Səhifəmiz:
