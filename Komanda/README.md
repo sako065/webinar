@@ -2,15 +2,15 @@
 
 Layihəmizin komandamiz:
 
-|No| Ad | Shirket |Vezife|Olke|
-|------|-------|---------|--------|------|
-|1| [SAKO M](#SAKO) |NGiNX|Bulud Proqramci|Amerika|
-|2| [Rovshan Musayev](#tural-mehtiyev-satış--marketing-rəhbəri) |IBM|
-|3| [Gunay Kazimzade](#gunay-nemət-maliyyə-rəhbəri) |Wowoman|
-|4| [Eldeniz Huseyn](#daşqın-Əhmədzadə-texniki-qrup-rəhbəri) |Huawei|
-|5| [Mamed Behri](#namazov-İlqar-texniki-mütəxəssis) |Azerconnect|
+|No| Ad | Shirket |Vezife|Olke|Email|
+|------|-------|---------|--------|------|----|
+|1| [SAKO M](#SAKO) |NGiNX|Bulud Proqramci|Amerika|mammadov@eurecom.fr
+|2| [Rovshan Musayev](#tural-mehtiyev-satış--marketing-rəhbəri) |IBM|Arlington1985@gmail.com
+|3| [Gunay Kazimzade](#gunay-nemət-maliyyə-rəhbəri) |Wowoman|gunay.kazimzade@gmail.com
+|4| [Eldeniz Huseyn](#daşqın-Əhmədzadə-texniki-qrup-rəhbəri) |Huawei| eldaniz.huseynov@outlook.com
+|5| [Mamed Behri](#namazov-İlqar-texniki-mütəxəssis) |Azerconnect|Mbaxri@gmail.com
 |6| [Ramin Orucov](#nigar-yusupova-texniki-mütəxəssis) |Luxsoft|
-|7| [Ramil Ragimov](#Əhmədzadə-coşqun-texniki-mütəxəssis) |Commerz Systems GmbH|
+|7| [Ramil Ragimov](#Əhmədzadə-coşqun-texniki-mütəxəssis) |Commerz Systems GmbH|ramilrahimov@yahoo.com
 |8| [Rustem Rustemli](#Əhmədzadə-coşqun-texniki-mütəxəssis) |Millikart|
 
 
