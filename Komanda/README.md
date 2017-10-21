@@ -4,7 +4,7 @@ Layihəmizin komandamiz:
 
 |No| Ad | Shirket |Vezife|Olke|
 |------|-------|---------|--------|------|
-|1| [Şəhriyar Məmmədov](#Şəhriyar) |NGiNX|Bulud Proqramci|Amerika|
+|1| [SAKO M](#Şəhriyar) |NGiNX|Bulud Proqramci|Amerika|
 |2| [Rovshan Musayev](#tural-mehtiyev-satış--marketing-rəhbəri) |IBM|
 |3| [Gunay Kazimzade](#gunay-nemət-maliyyə-rəhbəri) |Wowoman|
 |4| [Eldeniz Huseyn](#daşqın-Əhmədzadə-texniki-qrup-rəhbəri) |Huawei|
