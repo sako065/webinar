@@ -11,6 +11,7 @@ Layihəmizin komandamiz:
 |5| [Mamed Behri](#namazov-İlqar-texniki-mütəxəssis) |Azerconnect|
 |6| [Ramin Orucov](#nigar-yusupova-texniki-mütəxəssis) |Luxsoft|
 |7| [Ramil Ragimov](#Əhmədzadə-coşqun-texniki-mütəxəssis) |Commerz Systems GmbH|
+|8| [Rustem Rustemli](#Əhmədzadə-coşqun-texniki-mütəxəssis) |Millikart|
 
 
 
