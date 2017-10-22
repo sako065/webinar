@@ -2,7 +2,7 @@
 
 Dəyərli istifadecilerimiz,
 
-IT uzre "Open Source" alpha layihəsine xosh geldiniz.
+IT uzre "Open Source" alpha layihəsine xosh geldiniz. Devizimiz sadedir, Hereye 10 telebeye istiqamet verek! 
 
 - [Haqqımızda](#haqqımızda)
 - [Komandamız](/Komanda/README.md)
