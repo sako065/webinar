@@ -7,6 +7,7 @@ IT uzre "Open Source" alpha layihəsine xosh geldiniz. Devizimiz sadedir, Hereye
 - [Haqqımızda](#haqqımızda)
 - [Komandamız](/Komanda/README.md)
 - [Webinar I](/Webinar/Readme.md#bulud)
+- [Meqale I](/Webinar/Readme.md#bulud)
 - [Əlaqə](#Əlaqə)
 <!-- [Meqale I](/Webinar/Readme.md#bulud)
  [Kitab I](/Webinar/Readme.md#bulud)
