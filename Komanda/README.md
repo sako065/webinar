@@ -13,7 +13,7 @@ Layihəmizin komandamiz:
 |7| [Ramil Ragimov](#Əhmədzadə-coşqun-texniki-mütəxəssis) |Commerz Systems GmbH||Polsha|ramilrahimov@yahoo.com
 |8| [Rustem Rustemli](#Əhmədzadə-coşqun-texniki-mütəxəssis) |Millikart||Azerbaycan|
 |9| [Hasan Aliyev](#Əhmədzadə-coşqun-texniki-mütəxəssis) |Politecnico di Milano||Italiya|alieff.hasan@gmail.com
-
+|10| [Shahriyar Rzayev](#Əhmədzadə-coşqun-texniki-mütəxəssis) |Politecnico di Milano||Azerbaycan|rzayev.sehriyar@gmail.com
 
 
 
