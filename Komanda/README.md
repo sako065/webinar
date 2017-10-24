@@ -5,16 +5,17 @@ Layihəmizin komandamiz:
 |No| Ad | Shirket |Vezife|Olke|Email|
 |------|-------|---------|--------|------|----|
 |1| [SAKO M](#SAKO) |NGiNX|Bulud Proqramci|Amerika|sahriyarm@gmail.com
-|2| [Rovshan Musayev](#tural-mehtiyev-satış--marketing-rəhbəri) |IBM||Cexiya|Arlington1985@gmail.com
-|3| [Gunay Kazimzade](#gunay-nemət-maliyyə-rəhbəri) |Wowoman||Azerbaycan|gunay.kazimzade@gmail.com
-|4| [Eldeniz Huseyn](#daşqın-Əhmədzadə-texniki-qrup-rəhbəri) |Huawei||Azerbaycan| eldaniz.huseynov@outlook.com
-|5| [Mamed Behri](#namazov-İlqar-texniki-mütəxəssis) |Azerconnect||Azerbaycan|Mbaxri@gmail.com
-|6| [Tahir Sultanov](#namazov-İlqar-texniki-mütəxəssis) |Beshka||Almaniya|
-|7| [Ramil Ragimov](#Əhmədzadə-coşqun-texniki-mütəxəssis) |Commerz Systems GmbH||Polsha|ramilrahimov@yahoo.com
-|8| [Rustem Rustemli](#Əhmədzadə-coşqun-texniki-mütəxəssis) |Millikart||Azerbaycan|
-|9| [Hasan Aliyev](#Əhmədzadə-coşqun-texniki-mütəxəssis) |Politecnico di Milano||Italiya|alieff.hasan@gmail.com
-|10| [Shahriyar Rzayev](#Əhmədzadə-coşqun-texniki-mütəxəssis) |Percona||Azerbaycan|rzayev.sehriyar@gmail.com
-
+|2| [Rovshan Musayev](#RovshanM) |IBM||Cexiya|Arlington1985@gmail.com
+|3| [Gunay Kazimzade](#GunayK) |Wowoman||Azerbaycan|gunay.kazimzade@gmail.com
+|4| [Eldeniz Huseyn](#EldenizH) |Huawei||Azerbaycan| eldaniz.huseynov@outlook.com
+|5| [Mamed Behri](MamedB) |Azerconnect||Azerbaycan|Mbaxri@gmail.com
+|6| [Tahir Sultanov](#TahirS) |Beshka||Almaniya|
+|7| [Ramil Ragimov](#RamilR) |Commerz Systems GmbH||Polsha|ramilrahimov@yahoo.com
+|8| [Rustem Rustemli](#RustemR) |Millikart||Azerbaycan|rrrustamli@gmail.com
+|9| [Hasan Aliyev](#HasanA) |Politecnico di Milano||Italiya|alieff.hasan@gmail.com
+|10| [Shahriyar Rzayev](#ShahriyarR) |Percona||Azerbaycan|rzayev.sehriyar@gmail.com
+|11| [Emin Aliyev](#EminA) |Azerics Company||Amerika|
+|12| [Ali Ismayilov](#AliI) |EXASOL||Almaniya|
 
 
 ### SAKO M
