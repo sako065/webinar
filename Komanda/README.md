@@ -1,6 +1,5 @@
 ## Layihə Komandamız
 
-Layihəmizin komandamiz:
 
 |No| Ad | Shirket |Vezife|Olke|Email|
 |------|-------|---------|--------|------|----|
