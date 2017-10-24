@@ -9,7 +9,7 @@ Layihəmizin komandamiz:
 |3| [Gunay Kazimzade](#GunayK) |Wowoman||Azerbaycan|gunay.kazimzade@gmail.com
 |4| [Eldeniz Huseyn](#EldenizH) |Huawei||Azerbaycan| eldaniz.huseynov@outlook.com
 |5| [Mamed Behri](MamedB) |Azerconnect||Azerbaycan|Mbaxri@gmail.com
-|6| [Tahir Sultanov](#TahirS) |Beshka||Almaniya|
+|6| [Tahir Sultanov](#TahirS) |Bechtle AG||Almaniya|
 |7| [Ramil Ragimov](#RamilR) |Commerz Systems GmbH||Polsha|ramilrahimov@yahoo.com
 |8| [Rustem Rustemli](#RustemR) |Millikart||Azerbaycan|rrrustamli@gmail.com
 |9| [Hasan Aliyev](#HasanA) |Politecnico di Milano||Italiya|alieff.hasan@gmail.com
