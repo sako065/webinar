@@ -15,7 +15,7 @@
 |10| [Shahriyar Rzayev](#ShahriyarR) |Percona||Azerbaycan|rzayev.sehriyar@gmail.com
 |11| [Emin Aliyev](#EminA) |Azerics Company||Amerika|
 |12| [Ali Ismayilov](#AliI) |EXASOL||Almaniya|
-
+|13| [Royal Lachinov](#AliI) |ACTO App||Kanada|
 
 ### SAKO M
 1989 cu ildə Baki şəhərində anadan olub. 2007-2011 illerde Azerbaycan Dovlet Neft Akademiyasi, 2011-2013 cu illerde Qafqaz Universiteti MBA, IT Management, 2015-2017 ci illərdə Xaricdə Təhsil Proqramı ilə Fransa, Telecom Paristech Universitetində təhsil alıb. Her 3 universiteti ela qiymətlərlə GPA 4/4 ile bitirib. 7 illik 6 ölkədə iş təcrübəsi əsasən telekommunikasiya, tehlukesizlik ve bulud texnologiyalari sahəsində olub. Bakcell, ZTE, Huawei, SAP, Fraunhofer ve NGiNX şirkətlərində müxtəlif vəzifələrdə çalışıb. Paralel olaraq, Velorent, CycleBaku, DNART kimi startupların təsisçilərindən biridir və Qafqaz Universitetinde Novbeti Nesil Shebekeler ve Telekommunikasiyanin əsasları fənnini tədris edib. Hal-hazirda IT sahesi uzre Silikon Vadisinde Professional Training proqraminda ishtirak edir.
